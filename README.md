@@ -4,17 +4,17 @@ PokéChatBot é uma API interativa construída com FastAPI que responde a pergun
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 🔍 Descobre os **tipos** de um Pokémon
-- 🌟 Informa as **habilidades** (principais e ocultas)
-- 📉 Lista as **fraquezas** de tipos
-- 🔄 Retorna as **evoluções** de um Pokémon
-- ✨ Todas as respostas são **embelezadas** com ajuda da LLM para parecerem naturais e divertidas
+- Descobre os **tipos** de um Pokémon
+- Informa as **habilidades** (principais e ocultas)
+- Lista as **fraquezas** de tipos
+- Retorna as **evoluções** de um Pokémon
+- Todas as respostas são **embelezadas** com ajuda da LLM para parecerem naturais e divertidas
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 
@@ -36,7 +36,7 @@ POKECHATBOT/
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Python 3.8+
 - Conta e chave de API da [OpenAI](https://platform.openai.com/)
@@ -44,7 +44,7 @@ POKECHATBOT/
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 ### 1. Clone o repositório
 
@@ -74,7 +74,7 @@ OPENAI_API_KEY=sua-chave-aqui
 
 ---
 
-## ▶️ Executando o projeto
+## Executando o projeto
 
 ```bash
 uvicorn app.main:app --reload
@@ -85,7 +85,7 @@ Acesse a documentação interativa da API:
 
 ---
 
-## 🧪 Testes
+## Testes
 
 Você pode rodar os testes com:
 
@@ -95,7 +95,7 @@ pytest
 
 ---
 
-## 📌 Exemplo de uso
+## Exemplo de uso
 
 Faça um `POST` para `/pergunta` com o corpo:
 
@@ -115,7 +115,7 @@ Resposta esperada:
 
 ---
 
-## 🧠 Créditos
+## Créditos
 
 - [PokéAPI](https://pokeapi.co/) — Dados dos Pokémon
 - [OpenAI GPT](https://openai.com/) — Processamento de linguagem
