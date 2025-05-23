@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de log
+*.log
+
+# Variáveis sensíveis
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do VS Code
+.vscode/
+
+# Testes / Cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+pytest_cache/
+
+# Pipenv
+Pipfile.lock
