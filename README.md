@@ -1,6 +1,8 @@
-# 🤖 PokéChatBot
+# PokéChatBot
 
-PokéChatBot é uma API interativa construída com FastAPI que responde a perguntas sobre Pokémon de forma divertida e amigável, utilizando a PokéAPI e um modelo da OpenAI (GPT-3.5). Faça perguntas como "Quais os tipos do Charizard?" ou "O Gyarados é fraco contra o quê?" e receba respostas como se estivesse conversando com um mestre Pokémon!
+PokéChatBot é um projeto pessoal de estudo.
+
+Ele consiste em uma API interativa construída com FastAPI que responde a perguntas sobre Pokémon de forma divertida e amigável, utilizando a PokéAPI e um modelo da OpenAI (GPT-3.5). Faça perguntas como "Quais os tipos do Charizard?" ou "O Gyarados é fraco contra o quê?" e receba respostas como se estivesse conversando com um mestre Pokémon!
 
 ---
 
